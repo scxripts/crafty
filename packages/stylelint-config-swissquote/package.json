@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "jest": "26.4.2",
-    "postcss": "8.0.5",
+    "postcss": "8.0.6",
     "stylelint": "13.7.1"
   },
   "scripts": {
