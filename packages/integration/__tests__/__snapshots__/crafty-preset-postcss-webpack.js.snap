@@ -11,6 +11,10 @@ Object {
 [__:__:__] Starting 'default' ...
 [__:__:__] Starting 'js' ...
 [__:__:__] Starting 'js_myBundle' ...
+postcss.plugin was deprecated. Migration guide:
+https://evilmartians.com/chronicles/postcss-8-plugin-migration
+postcss.plugin was deprecated. Migration guide:
+https://evilmartians.com/chronicles/postcss-8-plugin-migration
   size  name     module                           status
   1 kB  1        multi ./js/app.js                built
   1 kB  2        ./css/style.scss                 built
@@ -49,6 +53,10 @@ Object {
 [__:__:__] Starting 'default' ...
 [__:__:__] Starting 'js' ...
 [__:__:__] Starting 'js_myBundle' ...
+postcss.plugin was deprecated. Migration guide:
+https://evilmartians.com/chronicles/postcss-8-plugin-migration
+postcss.plugin was deprecated. Migration guide:
+https://evilmartians.com/chronicles/postcss-8-plugin-migration
   size  name     module                        status
   1 kB  0        multi ./js/app.js             built
   1 kB  1        ./css/style.scss              built
@@ -94,6 +102,10 @@ Object {
 [__:__:__] Starting 'default' ...
 [__:__:__] Starting 'js' ...
 [__:__:__] Starting 'js_myBundle' ...
+postcss.plugin was deprecated. Migration guide:
+https://evilmartians.com/chronicles/postcss-8-plugin-migration
+postcss.plugin was deprecated. Migration guide:
+https://evilmartians.com/chronicles/postcss-8-plugin-migration
   size  name     module                       status
   1 kB  0        multi ./js/app.js            built
   1 kB  1        ./css/style.scss             built
@@ -139,6 +151,10 @@ Object {
 [__:__:__] Starting 'default' ...
 [__:__:__] Starting 'js' ...
 [__:__:__] Starting 'js_myBundle' ...
+postcss.plugin was deprecated. Migration guide:
+https://evilmartians.com/chronicles/postcss-8-plugin-migration
+postcss.plugin was deprecated. Migration guide:
+https://evilmartians.com/chronicles/postcss-8-plugin-migration
   size  name     module                       status
   1 kB  0        multi ./js/app.js            built
   1 kB  1        ./css/style.scss             built
@@ -184,6 +200,10 @@ Object {
 [__:__:__] Starting 'default' ...
 [__:__:__] Starting 'js' ...
 [__:__:__] Starting 'js_myBundle' ...
+postcss.plugin was deprecated. Migration guide:
+https://evilmartians.com/chronicles/postcss-8-plugin-migration
+postcss.plugin was deprecated. Migration guide:
+https://evilmartians.com/chronicles/postcss-8-plugin-migration
   size  name  module                           status
   1 kB  0     multi ./js/app.js                built
   1 kB  1     ./css/style.scss                 built
@@ -194,7 +214,7 @@ Object {
 
   Failed to compile.
 
-./css/style.scss (__PATH__/node_modules/css-loader/dist/cjs.js??ref--4-1!__PATH__/node_modules/postcss-loader/dist/cjs.js??ref--4-2!./css/style.scss)
+./css/style.scss (__PATH__/node_modules/css-loader/dist/cjs.js??ref--4-1!__PATH__/packages/crafty-preset-postcss/node_modules/postcss-loader/dist/cjs.js??ref--4-2!./css/style.scss)
 Syntax error: Unknown word (10:13)
 
    8 |     @at-root {

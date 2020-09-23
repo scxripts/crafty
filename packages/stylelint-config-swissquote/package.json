@@ -9,7 +9,7 @@
   "main": "index.js",
   "dependencies": {
     "postcss-resolve-nested-selector": "0.1.1",
-    "postcss-scss": "3.0.0",
+    "postcss-scss": "3.0.1",
     "postcss-selector-parser": "6.0.3",
     "postcss-value-parser": "4.1.0",
     "prettier": "^1.19.1",
@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "jest": "26.4.2",
-    "postcss": "8.0.7",
+    "postcss": "8.0.9",
     "stylelint": "13.7.1"
   },
   "scripts": {
