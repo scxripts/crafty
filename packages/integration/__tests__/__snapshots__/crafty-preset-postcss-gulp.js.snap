@@ -13,8 +13,6 @@ Object {
 \`resolve/lib/core\` is deprecated; please use \`is-core-module\` directly
 postcss.plugin was deprecated. Migration guide:
 https://evilmartians.com/chronicles/postcss-8-plugin-migration
-postcss.plugin was deprecated. Migration guide:
-https://evilmartians.com/chronicles/postcss-8-plugin-migration
 [__:__:__] Finished 'css_myBundle' after ____ ms
 [__:__:__] Finished 'css' after ____ ms
 [__:__:__] Starting 'css__lint' ...
@@ -37,8 +35,6 @@ Object {
 [__:__:__] Starting 'css' ...
 [__:__:__] Starting 'css_myBundle' ...
 \`resolve/lib/core\` is deprecated; please use \`is-core-module\` directly
-postcss.plugin was deprecated. Migration guide:
-https://evilmartians.com/chronicles/postcss-8-plugin-migration
 postcss.plugin was deprecated. Migration guide:
 https://evilmartians.com/chronicles/postcss-8-plugin-migration
 [__:__:__] Finished 'css_myBundle' after ____ ms
@@ -514,8 +510,6 @@ Object {
 [__:__:__] Starting 'css' ...
 [__:__:__] Starting 'css_myBundle' ...
 \`resolve/lib/core\` is deprecated; please use \`is-core-module\` directly
-postcss.plugin was deprecated. Migration guide:
-https://evilmartians.com/chronicles/postcss-8-plugin-migration
 postcss.plugin was deprecated. Migration guide:
 https://evilmartians.com/chronicles/postcss-8-plugin-migration
 [__:__:__] 'css_myBundle' errored after ____ ms

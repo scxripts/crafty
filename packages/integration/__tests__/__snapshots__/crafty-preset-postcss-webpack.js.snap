@@ -14,8 +14,6 @@ Object {
 \`resolve/lib/core\` is deprecated; please use \`is-core-module\` directly
 postcss.plugin was deprecated. Migration guide:
 https://evilmartians.com/chronicles/postcss-8-plugin-migration
-postcss.plugin was deprecated. Migration guide:
-https://evilmartians.com/chronicles/postcss-8-plugin-migration
   size  name     module                           status
   1 kB  0        postcss-loader!./css/style.scss  built
   1 kB  3        multi ./js/app.js                built
@@ -54,8 +52,6 @@ Object {
 [__:__:__] Starting 'js' ...
 [__:__:__] Starting 'js_myBundle' ...
 \`resolve/lib/core\` is deprecated; please use \`is-core-module\` directly
-postcss.plugin was deprecated. Migration guide:
-https://evilmartians.com/chronicles/postcss-8-plugin-migration
 postcss.plugin was deprecated. Migration guide:
 https://evilmartians.com/chronicles/postcss-8-plugin-migration
   size  name     module                        status
@@ -105,8 +101,6 @@ Object {
 \`resolve/lib/core\` is deprecated; please use \`is-core-module\` directly
 postcss.plugin was deprecated. Migration guide:
 https://evilmartians.com/chronicles/postcss-8-plugin-migration
-postcss.plugin was deprecated. Migration guide:
-https://evilmartians.com/chronicles/postcss-8-plugin-migration
   size  name     module                       status
   1 kB  0        multi ./js/app.js            built
   1 kB  1        ./js/app.js + 2 modules      built
@@ -152,8 +146,6 @@ Object {
 [__:__:__] Starting 'js' ...
 [__:__:__] Starting 'js_myBundle' ...
 \`resolve/lib/core\` is deprecated; please use \`is-core-module\` directly
-postcss.plugin was deprecated. Migration guide:
-https://evilmartians.com/chronicles/postcss-8-plugin-migration
 postcss.plugin was deprecated. Migration guide:
 https://evilmartians.com/chronicles/postcss-8-plugin-migration
   size  name     module                       status
@@ -203,8 +195,6 @@ Object {
 \`resolve/lib/core\` is deprecated; please use \`is-core-module\` directly
 postcss.plugin was deprecated. Migration guide:
 https://evilmartians.com/chronicles/postcss-8-plugin-migration
-postcss.plugin was deprecated. Migration guide:
-https://evilmartians.com/chronicles/postcss-8-plugin-migration
   size  name  module                           status
   1 kB  0     postcss-loader!./css/style.scss  built failed ✖
   1 kB  2     multi ./js/app.js                built
@@ -215,7 +205,7 @@ https://evilmartians.com/chronicles/postcss-8-plugin-migration
   Failed to compile.
 
 ./css/style.scss (__PATH__/node_modules/css-loader/dist/cjs.js??ref--4-1!__PATH__/packages/crafty-preset-postcss/node_modules/postcss-loader/dist/cjs.js??ref--4-2!./css/style.scss)
-Syntax error: Unknown word (10:13)
+Syntax error: __PATH__/packages/integration/fixtures/crafty-preset-postcss-webpack/fails/css/style.scss Unknown word (10:13)
 
    8 |     @at-root {
    9 |         .Child
