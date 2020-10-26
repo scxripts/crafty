@@ -17,7 +17,7 @@
     "gulp-rename": "2.0.0",
     "gulp-sourcemaps": "2.6.5",
     "mini-css-extract-plugin": "1.2.0",
-    "postcss": "8.1.2",
+    "postcss": "8.1.4",
     "postcss-loader": "4.0.4",
     "postcss-reporter": "7.0.1",
     "postcss-scss": "3.0.2",
